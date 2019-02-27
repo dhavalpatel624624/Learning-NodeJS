@@ -1,0 +1,23 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello_world.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhavalpatel624624/Learning-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhavalpatel624624/Learning-NodeJS/issues"
+  },
+  "homepage": "https://github.com/dhavalpatel624624/Learning-NodeJS#readme"
+}
